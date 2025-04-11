@@ -1,4 +1,5 @@
 package com.game.retro;
 
-public class Main {
+public class  Main {
+
 }
